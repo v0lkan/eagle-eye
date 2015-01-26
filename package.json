@@ -1,8 +1,12 @@
 {
   "name": "eagle-eye",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A keen, close look on your dependencies.",
   "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "eagle-eye": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +26,13 @@
   "bugs": {
     "url": "https://github.com/v0lkan/eagle-eye/issues"
   },
-  "homepage": "https://github.com/v0lkan/eagle-eye"
+  "homepage": "https://github.com/v0lkan/eagle-eye",
+  "dependencies": {
+    "bower": "^1.3.12",
+    "cli-color": "^0.3.2",
+    "commander": "^2.6.0",
+    "npm": "^2.3.0",
+    "q": "^1.1.2",
+    "request": "^2.51.0"
+  }
 }
