@@ -55,4 +55,3 @@ Enjoy
 ### Contact Information
 
 * **Project Owner**: [Volkan Özçelik](http://volkan.io/)
-* **Project Website**: [o2js.com](http://o2js.com/)
