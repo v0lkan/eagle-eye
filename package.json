@@ -1,6 +1,6 @@
 {
   "name": "eagle-eye",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A keen, close look on your dependencies.",
   "main": "index.js",
   "preferGlobal": true,
@@ -33,6 +33,7 @@
     "commander": "^2.6.0",
     "npm": "^2.3.0",
     "q": "^1.1.2",
-    "request": "^2.51.0"
+    "request": "^2.51.0",
+    "semver": "^4.2.0"
   }
 }
