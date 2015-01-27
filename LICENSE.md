@@ -1,6 +1,10 @@
-# Eagle Eye
-
-// TODO: generate ascii art
+        ______            __        ______
+       / ____/___ _____ _/ /__     / ____/_  _____
+      / __/ / __ `/ __ `/ / _ \   / __/ / / / / _ \
+     / /___/ /_/ / /_/ / /  __/  / /___/ /_/ /  __/
+    /_____/\__,_/\__, /_/\___/  /_____/\__, /\___/
+                /____/                /____/
+         someone’s watching your dependencies
 
 Copyright © by [**Volkan Özçelik**](http://volkan.io), and community.
 
