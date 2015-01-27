@@ -11,7 +11,7 @@ Contributions are always welcome.
 
 Install **Eagle Eye** via **npm** globally:
 
-    npm install -g
+    npm install -g eagle-eye
 
 `cd` to your project directory where you have **package.json** and **bower.json**.
 
